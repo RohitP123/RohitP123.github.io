@@ -1,0 +1,11 @@
+.title h1 {
+    color: blue
+}
+
+.center h1 {
+    text-align: center;
+    width: 50;
+    border: 20 solid green;
+    padding: 0px;
+    margin: 0px;
+}
